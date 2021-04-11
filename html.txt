@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Source+Code+Pro:ital,wght@1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>Study Kaksha| Home</title>
+    <style>
+        h1 {
+            font-family: 'Dancing Script', cursive;
+        }
+
+        nav {
+            font-family: 'Source Code Pro', monospace;
+        }
+    </style>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>ECE Study Kaksha</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Profile</a>
+            <a href="#">Login</a>
+            <!--Null Links-->
+            <a href="#">Sign Up</a>
+            <a href="#">Study Materials(PDF)</a>
+            <a href="#">Media</a>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Chemistry</h2>
+            <a href="/Quantum Mechanics and Path Integrals_ Emended Edition ( PDFDrive ).pdf" target="_blank"><img
+                    src="/download.png" alt="an image" width="10%"></a>
+            <a href="/ALL-IN-ONE(CHEM-VLAB MERGED).pdf" target="_blank" rel="noopener noreferrer"><img
+                    src="/download.png" alt="an image" width="10%"></a>
+            <a href="/vlab expt. no. 5 practice questions.pdf" target="_blank"><img src="/download.png" alt="an image"
+                    width="10%"></a>
+            <h2>Maths</h2>
+            <a href="/Engineering Mathematics (Volume I) - BK Pal, K Das.pdf" target="_blank"
+                rel="noopener noreferrer"><img src="/download.png" alt="an image" width="10%"></a>
+            <a href="/MCQ Question Bank IA,IB (BS-M101,M102).pdf" target="_blank"><img src="/download.png"
+                    alt="an image" width="10%"></a>
+            <a href="/2nd Internal Q.B. All Btech 1st Sem.pdf" target="_blank"><img src="/download.png" alt="an image"
+                    width="10%"></a>
+
+        </section>
+    </main>
+</body>
+
+</html>
